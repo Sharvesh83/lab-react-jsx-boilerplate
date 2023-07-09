@@ -1,1 +1,19 @@
-/* add your styles here */
+.app {
+    text-align: center;
+  }
+  
+  .app h1 {
+    margin-bottom: 1rem;
+  }
+  
+  .image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .image-container img {
+    width: 48%;
+    margin-bottom: 1rem;
+  }
+  
